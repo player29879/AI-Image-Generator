@@ -108,3 +108,5 @@ function downloadImage(imgUrl, imageNumber) {
 document.addEventListener("DOMContentLoaded", () => {
     document.getElementById("splash").classList.add("loaded");
 });
+
+//END
